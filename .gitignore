@@ -1,4 +1,4 @@
-/utils/logs/app.log
+
 # --- Файлы Python ---
 __pycache__/
 *.py[cod]
@@ -57,3 +57,5 @@ Thumbs.db          # Windows
 
 # --- Файлы txt ---
 *.txt
+
+.idea/workspace.xml

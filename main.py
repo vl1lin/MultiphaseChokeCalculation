@@ -1,7 +1,7 @@
 from utils.logger_config import setup_logger
-setup_logger()
-
 import logging
+
+setup_logger()
 
 logger = logging.getLogger(__name__)
 logger.info("Проверка info")
