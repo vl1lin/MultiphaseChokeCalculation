@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости" />
+    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="последний комит" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775159127313</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="последний комит">
+      <option name="closed" value="true" />
+      <created>1775159364413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775159364414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +106,7 @@
     <MESSAGE value="Написал расчет для параметров нефти" />
     <MESSAGE value="Написал расчет для параметров воды" />
     <MESSAGE value="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости" />
+    <MESSAGE value="последний комит" />
+    <option name="LAST_COMMIT_MESSAGE" value="последний комит" />
   </component>
 </project>
