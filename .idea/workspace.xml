@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Написал расчет для параметров воды">
-      <change afterPath="$PROJECT_DIR$/core/properties/gas/coefficient_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/properties/gas/gas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/properties/gas/jonson_tabulated_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/properties/gas.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/properties/gas/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +82,22 @@
       <option name="project" value="LOCAL" />
       <updated>1775156189825</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости">
+      <option name="closed" value="true" />
+      <created>1775159127313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775159127313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начало работы" />
     <MESSAGE value="Написал расчет для параметров нефти" />
     <MESSAGE value="Написал расчет для параметров воды" />
-    <option name="LAST_COMMIT_MESSAGE" value="Написал расчет для параметров воды" />
+    <MESSAGE value="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начал работу над газом. Создал dataclass с коэффициентами для расчета коэффициента сжимемости" />
   </component>
 </project>
