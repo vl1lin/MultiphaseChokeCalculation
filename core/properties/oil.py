@@ -6,7 +6,7 @@ logger = logging.getLogger(__name__)
 
 
 class CalculationOilProperties(CalculationProperties):
-    def __init__(self, *, density_in_api: float,
+    def __init__(self, density_in_api: float,
                  temperature_in_kelvin_in_kelvin: float,
                  pressure: float,
                  specific_gravity_of_gas: float):

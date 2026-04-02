@@ -1,5 +1,6 @@
 import logging
 from abc import ABC, abstractmethod
+from typing import Optional
 
 
 logger = logging.getLogger(__name__)
@@ -7,7 +8,7 @@ logger = logging.getLogger(__name__)
 
 class CalculationProperties(ABC):
     @abstractmethod
-    def calculate_heat_capacity(self) -> float:
+    def calculate_heat_capacity(self) -> Optional[float, int]:
         pass
 
     @abstractmethod

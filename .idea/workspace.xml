@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Начало работы">
-      <change afterPath="$PROJECT_DIR$/core/properties/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/properties/calculation_properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/properties/gas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/properties/oil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/properties/water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger_config.py" afterDir="false" />
+    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Написал расчет для параметров нефти">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/properties/oil.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/properties/oil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/properties/properties_abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/properties/properties_abc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/properties/water.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/properties/water.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1775150113957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Написал расчет для параметров нефти">
+      <option name="closed" value="true" />
+      <created>1775155295814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775155295814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начало работы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начало работы" />
+    <MESSAGE value="Написал расчет для параметров нефти" />
+    <option name="LAST_COMMIT_MESSAGE" value="Написал расчет для параметров нефти" />
   </component>
 </project>
