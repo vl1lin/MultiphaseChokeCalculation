@@ -58,4 +58,4 @@ Thumbs.db          # Windows
 # --- Файлы txt ---
 *.txt
 
-.idea/workspace.xml
+idea/workspace.xml
