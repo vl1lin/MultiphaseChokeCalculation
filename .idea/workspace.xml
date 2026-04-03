@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Добавил в gitignore файлы">
-      <change afterPath="$PROJECT_DIR$/core/choke_calculations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/choke_calculations/calculate_q_max.py" afterDir="false" />
+    <list default="true" id="5704198c-37a2-4b97-8193-6a6058a6f67a" name="Changes" comment="Реализовал расчет максимального расхода через штуцер">
+      <change afterPath="$PROJECT_DIR$/core/properties/standard_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775167867854</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Реализовал расчет максимального расхода через штуцер">
+      <option name="closed" value="true" />
+      <created>1775255371285</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775255371286</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +173,7 @@
     <MESSAGE value="Исправил настройку логгера" />
     <MESSAGE value="Проверил настройку логгера" />
     <MESSAGE value="Добавил в gitignore файлы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил в gitignore файлы" />
+    <MESSAGE value="Реализовал расчет максимального расхода через штуцер" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализовал расчет максимального расхода через штуцер" />
   </component>
 </project>
